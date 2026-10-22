@@ -1,0 +1,17 @@
+# Never publish user papers, generated files, credentials or private results.
+.private/
+private/
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.docx
+*.db
+*.sqlite*
+*.log
+*.env
+.env*
+*token*
+*credential*
+phase1-status.json
+node_modules/
