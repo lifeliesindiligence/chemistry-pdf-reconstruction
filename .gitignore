@@ -15,3 +15,5 @@ private/
 *credential*
 phase1-status.json
 node_modules/
+__pycache__/
+*.pyc
